@@ -2,7 +2,7 @@
   "tipo": "chamarra",
   "articulos": [
     {
-      "marca": "Ariat",
+      "marca": "nike",
       "modelo": "Vaquera",
       "precio": 550,
       "disponible": true,
