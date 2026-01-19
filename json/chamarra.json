@@ -19,7 +19,7 @@
 
      {
       "marca": "adidas",
-      "modelo": "Mundia MX",
+      "modelo": "MundiaMX",
       "precio": 500,
       "disponible": true,
       "tallas": ["S", "M", "L", "XL", "XXL"],
