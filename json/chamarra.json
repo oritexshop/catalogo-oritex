@@ -15,6 +15,18 @@
         { "nombre": "arena", "hex": "#e6d5b8" },
         { "nombre": "marino", "hex": "#0f172a" }
       ]
+    },
+
+     {
+      "marca": "adidas",
+      "modelo": "Mundia MX",
+      "precio": 500,
+      "disponible": true,
+      "tallas": ["S", "M", "L", "XL", "XXL"],
+      "colores": [
+        { "nombre": "verde", "hex": "#008f39" },
+      ]
     }
+    
   ]
 }
