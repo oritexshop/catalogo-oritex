@@ -1,0 +1,20 @@
+{
+  "tipo": "chamarra",
+  "articulos": [
+    {
+      "marca": "Ariat",
+      "modelo": "Vaquera",
+      "precio": 550,
+      "disponible": true,
+      "tallas": ["S", "M", "L", "XL", "XXL"],
+      "colores": [
+        { "nombre": "negro", "hex": "#000000" },
+        { "nombre": "rojo", "hex": "#dc2626" },
+        { "nombre": "rey", "hex": "#1d4ed8" },
+        { "nombre": "militar", "hex": "#4b5320" },
+        { "nombre": "arena", "hex": "#e6d5b8" },
+        { "nombre": "marino", "hex": "#0f172a" }
+      ]
+    }
+  ]
+}
