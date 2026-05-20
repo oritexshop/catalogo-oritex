@@ -26,6 +26,17 @@
       "colores": [
         { "nombre": "verde", "hex": "#008f39" },
       ]
+    },
+
+     {
+      "marca": "surprise",
+      "modelo": "SL6272",
+      "precio": 500,
+      "disponible": true,
+      "tallas": ["S", "M", "L", "XL", "XXL"],
+      "colores": [
+        { "nombre": "azul", "hex": "#425d8c" },
+      ]
     }
     
   ]
